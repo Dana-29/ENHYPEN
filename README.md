@@ -1,5 +1,3 @@
-# ENHYPEN
-Веб сторінка про гурт ENHYPEN
 <!DOCTYPE html>
 <html lang="uk">
 <head>
